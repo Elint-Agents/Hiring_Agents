@@ -1,1 +1,0 @@
-# Team-02_Gautamprakash_Jyotsnachoubey
