@@ -45,3 +45,6 @@ A FastAPI-based backend to automate the entire flow of resume collection, extrac
 
 Create a `.env` file in the root folder:
 
+
+![Company Logo](/home/som/Pictures/Elint_Agents/Hiring_Agents/Elint-Data-logo-profile.png)
+
